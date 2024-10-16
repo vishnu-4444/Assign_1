@@ -1,0 +1,69 @@
+#link {
+    text-decoration: none; 
+    padding: 10px 20px;
+    border: 2px solid #007BFF; 
+    border-radius: 5px; 
+    color: black;
+    background-color: #007BFF; 
+    float: right;
+    margin: 10px;
+}
+
+form{
+    padding-top: 15%;
+}
+
+input[type="text"],input[type="password"] {
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+            
+}
+
+table{
+    text-align: center;
+    border: 2px;
+    border-color: black;
+}
+
+th {
+    color: black;
+}
+
+.info {
+    padding: 30px; 
+    font-size: 16px;
+    width: 100px;
+}
+
+.br {
+    padding: 30px; 
+    font-size: 16px;
+    width: 150px;
+}
+
+.champ {
+    padding: 50px;
+}
+
+.ainfo, .abr {
+    text-decoration: none; 
+    padding: 10px 20px;
+    border: 2px solid #007BFF; 
+    border-radius: 5px; 
+    color: black;
+    background-color: #007BFF; 
+    float: right;
+    margin: 10px;
+}
+
+.sub {
+    text-decoration: none; 
+    color: white;
+}
+
+
+    
+
